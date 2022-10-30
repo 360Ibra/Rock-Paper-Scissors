@@ -161,7 +161,7 @@ if ((user_turn == "rock" && bot_turn == "0") || (user_turn == "paper" && bot_tur
    User : ${user_score}
    Bot  : ${bot_score}
    Ties : ${tie_score}`);
-   this.$alert("Hello Vue Simple Alert.");
+   
 
 
    
